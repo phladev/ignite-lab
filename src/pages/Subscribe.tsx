@@ -70,21 +70,6 @@ export function Subscribe() {
 
             <img src="/src/assets/code-img.png" className="mt-10" alt="" />
 
-            <footer className="w-full mx-auto flex border-t border-gray-600 bg-gray-700">
-                <div className="p-5 w-full">
-                    <div className="flex items-center gap-8">
-                        <div className="flex">
-                            <LogoR />
-                        </div>
-                        <div className="flex-auto">
-                            <span className="text-gray-200 block">Rocketseat - Todos os direitos reservados</span>
-                        </div>
-                        <div>
-                            <span className="text-gray-200 block">Políticas de privacidade</span>
-                        </div>
-                    </div>
-                </div>
-            </footer>
         </div>
     )
 }
